@@ -1,5 +1,5 @@
 
-import { NavLink } from 'react-router-dom';
+import { NavLink, Switch } from 'react-router-dom';
 import './App.css';
 import fon from "./component/Imgs/logo.svg"
 function App() {
@@ -15,6 +15,12 @@ function App() {
         <li><NavLink activeStyle={activeLInk} to="/contact">Contackts</NavLink></li>
         <li><NavLink activeStyle={activeLInk} to="catologs">Catologs</NavLink></li>
       </ul>
+      <Switch>
+      <Route path="/home" component={Home} />
+        <Route path="/contacts" component={Contackts} />
+        <Route path="/catologs" component={Catolog}/>
+        <Route path="/about" component={About} />
+      </Switch>
     </div>
   );
 }
