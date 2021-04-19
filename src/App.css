@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  /* font-family: 'Lobster', cursive; */
+}
+
+.activeLInk{
+  font-size: 15px;
+  color: rgb(0, 60, 255);
+   font-size: 45px;
+   font-weight: bold 700;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(31, 184, 51);
+  max-width: 1900px;
+
+   
+    min-height: 65px;
+  height: 100%;
+  
+}
+ul li {
+  list-style: none;
+  padding: 10px 15px;
+}
+ul li a{
+ text-decoration: none;
+ font-size: 20px;  
+}
