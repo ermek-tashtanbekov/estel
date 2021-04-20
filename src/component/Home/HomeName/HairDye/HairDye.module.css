@@ -1,0 +1,24 @@
+.HairDay{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+.HairDay > div {
+    box-shadow:  0 0 15px violet;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.HairDay div p{
+    max-width: 200px;
+  text-align: center;   
+}
+button{
+   margin: 5px;
+   background-color: teal;
+   outline: none;
+   border: none;
+}

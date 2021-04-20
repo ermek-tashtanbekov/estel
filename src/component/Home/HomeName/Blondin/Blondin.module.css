@@ -1,0 +1,26 @@
+.Blondin{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 1900px;
+    margin: 0 auto;
+}
+.shampoo{
+    max-width: 300px;
+    box-shadow: 0 0 10px rgb(201, 124, 235);
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+a {
+    text-decoration: none;
+
+    text-align: center;
+}
+strong{
+border: 1 px solid;
+background-color: deepskyblue;
+
+}
