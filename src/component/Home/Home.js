@@ -7,9 +7,8 @@ import { Link } from "react-router-dom";
 
 const Home = ({ match }) => {
     return (<div>
-        <video src={audio} autoPlay loop
-
-            className={classes.video} />
+        <video src={audio} autoPlay loop muted
+         className={classes.video} />
         <div className={classes.full}>
             {match.isExact
                 ? <HomeList />
