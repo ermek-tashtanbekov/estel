@@ -15,20 +15,20 @@ const Politra = () => {
  <strong>Estel Prince </strong><p>- полуперманентная крем-краска для волос</p>
 <div></div>
             <div className={classes.poli}>
-                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/b4e/b4eff4fe2c7d0fa399a27b4f5107b030.jpg" width="100px"  alt={"fe"}/>htrshs</Link></div>
-                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/da5/da584b7094b13a2f78a097d67ed0cb5a.jpg" width="100px" alt={"fe"} />htrshs</Link></div>
-                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/51a/51afd7a78e1f88d17b7f56d3953fd44e.jpg" width="100px" alt={"fe"} />htrshs</Link></div>
-                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/367/367cbaaca736ff1578b40c76dc36c4ec.jpg" width="100px" alt={"fe"}/>htrshs</Link></div>
-                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/121/1213790cfd9210efb055ab8c326242ac.jpg" width="100px" alt={"fe"} />htrshs</Link></div>
-                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/ea8/ea836991b610f6329510902745683483.jpg" width="100px" alt={"fe"} />htrshs</Link></div>
-                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/e09/e09a71b2b29400117f3b2a15c07c5141.jpg" width="100px" alt={"fe"} />htrshs</Link></div>
-                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/51a/51afd7a78e1f88d17b7f56d3953fd44e.jpg" width="100px" alt={"fe"} />htrshs</Link></div>
-                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/e2e/e2e6c266136e500776a7824eade54fc6.jpg" width="100px" alt={"fe"} />htrshs</Link></div>
-                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/c76/c768bedc5f6b97cd97f8bb3c5445bf79.jpg" width="100px"  alt={"fe"}/>htrshs</Link></div>
-                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/749/749ca639ef1a1a8d462e844d47caf999.jpg" width="100px" alt={"fe"}/>htrshs</Link></div>
+                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/b4e/b4eff4fe2c7d0fa399a27b4f5107b030.jpg" width="100px"  alt={"fet"}/>htrshs</Link></div>
+                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/da5/da584b7094b13a2f78a097d67ed0cb5a.jpg" width="100px" alt={"fenk"} />htrshs</Link></div>
+                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/51a/51afd7a78e1f88d17b7f56d3953fd44e.jpg" width="100px" alt={"feml"} />htrshs</Link></div>
+                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/367/367cbaaca736ff1578b40c76dc36c4ec.jpg" width="100px" alt={"fenkl"}/>htrshs</Link></div>
+                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/121/1213790cfd9210efb055ab8c326242ac.jpg" width="100px" alt={"fenkk"} />htrshs</Link></div>
+                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/ea8/ea836991b610f6329510902745683483.jpg" width="100px" alt={"fenkl"} />htrshs</Link></div>
+                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/e09/e09a71b2b29400117f3b2a15c07c5141.jpg" width="100px" alt={"fehib"} />htrshs</Link></div>
+                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/51a/51afd7a78e1f88d17b7f56d3953fd44e.jpg" width="100px" alt={"feb"} />htrshs</Link></div>
+                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/e2e/e2e6c266136e500776a7824eade54fc6.jpg" width="100px" alt={"hbk"} />htrshs</Link></div>
+                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/c76/c768bedc5f6b97cd97f8bb3c5445bf79.jpg" width="100px"  alt={"fedfghj"}/>htrshs</Link></div>
+                <div><Link to="/home"><img src="https://estel-shop.ru/upload/iblock/749/749ca639ef1a1a8d462e844d47caf999.jpg" width="100px" alt={"fegbhnj"}/>htrshs</Link></div>
             </div>
             <div>
-                <img src="" />
+               
             </div>
         </div>
         </div>

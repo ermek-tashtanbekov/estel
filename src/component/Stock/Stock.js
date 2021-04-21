@@ -3,7 +3,7 @@ import classes from "./Stock.module.css"
 const Stock = () => {
     return (
         <div className={classes.Stock}>
-            <div style={{backgroundSize: "cover"}}> <img src="https://estel-shop.ru/upload/resize_cache/iblock/b9f/268_166_2/b9f410ac1a2df4ff6d5d9be3b1c1b81c.jpg"width="100%" /></div> 
+            <div style={{backgroundSize: "cover"}}> <img src="https://estel-shop.ru/upload/resize_cache/iblock/b9f/268_166_2/b9f410ac1a2df4ff6d5d9be3b1c1b81c.jpg" alt={'hear'}width="100%" /></div> 
         <div className={classes.parrent}>
         
             <div>
