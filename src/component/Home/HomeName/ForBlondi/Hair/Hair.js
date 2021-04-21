@@ -27,7 +27,7 @@ Estel NewTone — это деликатно, безопасно, очень бы
       <button> <Link to="/home">Home</Link></button>
             </div>
             <div>
-                <img src={geep} alt={'photo'} />
+                <img src={geep} alt={'hear'} />
                Estel NewTone Тонирующая маска для волос 10/6 Светлый блондин фиолетовый
 
 Защита и сохранение цвета. Защита цвета обеспечивается уникальной Системой Оптимальной Фиксации Цвета.
@@ -43,7 +43,7 @@ Estel NewTone — это деликатно, безопасно, очень бы
 <button> <Link to="/home">Home</Link></button>
             </div>
             <div>
-                <img src={blackhear}  alt={'photo'} />
+                <img src={blackhear}  alt={'hear'} />
                Estel NewTone Тонирующая маска для волос 10/6 Светлый блондин фиолетовый
 
 Защита и сохранение цвета. Защита цвета обеспечивается уникальной Системой Оптимальной Фиксации Цвета.
