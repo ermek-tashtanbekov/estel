@@ -40,7 +40,7 @@ const Catolog = () => {
                     </div>
 
                     <div className={classes.child}>
-                        <img src="https://estel-shop.ru/upload/iblock/341/3414f390f080a207324f27a3de2872b5.jpg" />
+                        <img src="https://estel-shop.ru/upload/iblock/341/3414f390f080a207324f27a3de2872b5.jpg" alt={"fe"} />
                         <Link> <h5>Оксиды/Активаторы (26)</h5>
                             <div><p><strong>Оксиданты и активаторы Estel Professional.</strong>От 1,5% до 12% . Для работы с красителями Princess Essex и De Luxe.
 </p></div></Link>
