@@ -2,6 +2,7 @@
 import { NavLink, Route, Switch } from 'react-router-dom';
 import './App.css';
 import About from './component/About/About';
+
 import Catolog from './component/Catolog/Catolog';
 import Contakts from './component/Contakts/Contakts';
 import Home from './component/Home/Home';
